@@ -41,10 +41,8 @@ retro technology, and exploring how things work under the hood.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NyfyN&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NyfyN&layout=compact&theme=tokyonight&hide_border=true)
-
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NyfyN&show_icons=true&themtokyonight&hide_broder=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=NyfyN&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NyfyN&theme=tokyonight&hide_border=true)
 
 </div>
