@@ -50,10 +50,6 @@ retro technology, and exploring how things work under the hood.
 
 ---
 
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NyfyN&theme=tokyonight&hide_border=true)
-
 ---
 
 <div align="center">
