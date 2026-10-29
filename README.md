@@ -1,33 +1,66 @@
-## 👨‍💻 About Me
+<div align="center">
 
-Hey! I'm a developer with a passion for programming, Linux, retro technology, and exploring how things work under the hood.
+# 👋 Hey, I'm NyfyN
 
-I enjoy experimenting with different technologies, building software, and learning new things along the way. I'm particularly interested in the intersection of software development, artificial intelligence, and low-level computing.
+### Developer · Linux Enthusiast · Retro Technology Lover
 
-- 🐧 **Linux enthusiast** — daily-driving Arch Linux and exploring the world of open-source operating systems.
-- 🕹️ **Retro technology lover** — fascinated by vintage computers, old hardware, and the evolution of technology.
-- 💻 **Programming** — working with Python, C++, and JavaScript, as well as experimenting with game development in Godot.
-- 🧠 **Artificial Intelligence** — exploring convolutional neural networks (CNNs), genetic algorithms, and machine learning.
-- 🌐 **Computer Networks** — familiar with networking fundamentals, protocols, and network infrastructure.
-- 🔧 **Always experimenting** — learning by building projects, breaking things, and figuring out how to fix them.
+*Exploring what's happening under the hood.*
 
-I believe the best way to learn technology is to get hands-on, experiment, and understand what's happening behind the scenes.
+[![GitHub](https://img.shields.io/badge/GitHub-NyfyN-0d1117?style=for-the-badge&logo=github)](https://github.com/NyfyN)
+[![Linux](https://img.shields.io/badge/Linux-Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
 
-**Currently exploring:** Linux, AI, software development, and whatever interesting project catches my attention next.
+</div>
 
 ---
 
-## 🛠️ Technologies & Interests
+## 🧑‍💻 About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,godot,linux,arch,git,github,docker&perline=5" alt="Technologies" />
-</p>
+I'm a developer with a passion for programming, Linux,
+retro technology, and exploring how things work under the hood.
 
-### Areas of Interest
+- 🐧 Daily-driving **Arch Linux**
+- 💻 Programming in **Python, C++, and JavaScript**
+- 🎮 Experimenting with **Godot Engine** and game development
+- 🧠 Exploring **CNNs, genetic algorithms, and AI**
+- 🖥️ Interested in retro computers and operating systems
+- 🔧 Learning by building projects and breaking things
 
-- **Programming:** Python, C++, JavaScript
-- **Game Development:** Godot Engine
-- **Artificial Intelligence:** Convolutional Neural Networks, Genetic Algorithms
-- **Operating Systems:** Linux, Arch Linux
-- **Networking:** Network fundamentals, protocols, and infrastructure
-- **Retro Computing:** Vintage hardware and legacy technologies
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,godot,linux,arch,git,docker,html,css,java&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NyfyN&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NyfyN&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NyfyN&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NyfyN&theme=tokyo-night&hide_border=true)
+
+---
+
+<div align="center">
+
+### 💙 Keep experimenting. Keep building.
+
+*Curiosity is the best debugging tool.*
+
+</div>
